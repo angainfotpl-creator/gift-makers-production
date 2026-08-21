@@ -1,0 +1,10 @@
+{
+  "description": "Manage print production workflows with employee tracking, order creation, work order generation, real-time status updates, and batch dispatching.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
